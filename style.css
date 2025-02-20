@@ -1,0 +1,7 @@
+.title{
+    text-align: center;
+}
+.grad{
+    height: 500px;
+    background-image: linear-gradient(to right, darkgreen, green, yellow);
+}
